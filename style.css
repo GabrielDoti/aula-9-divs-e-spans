@@ -1,0 +1,10 @@
+.produto{
+    background-color: aqua;
+    padding: 5px;
+    border: solid;
+}
+
+.produto span{
+    color: blueviolet;
+    font-size: xx-large;
+}
